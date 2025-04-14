@@ -5,3 +5,4 @@ Series of Computational Optimisation Projects in Python
 - Project 03: Knapsack Problem Solver using Greedy Algorithm
 - Project 04: Knapsack Problem Solver using Hill Climbing Algorithm
 - Project 05: Knapsack Problem Solver using Genetic Algorithm
+- Project 06: Knapsack Problem Solver using GRASP Metaheuristic Algorithm
